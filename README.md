@@ -2,7 +2,7 @@
 #### This is a simple project to create a landing page for a programming portfolio
 #### By Bramuel Amariati
 ## Description
-This is a project contining information that represent who I am.It also contains a list of some projects I have done and an about me section of my background and hobbies.
+This is a project containing information that represent who I am.It also contains a list of some projects I have done and an about me section of my background and hobbies.
 ## Setup/Installation Requirements
 * Clone the repository to your local machine
     ```
