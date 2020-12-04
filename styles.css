@@ -1,11 +1,21 @@
 h1{
     color:green;
-    text-align: center;
+    text-align: left;
 }
 .Heading{
     background-color: rgb(199, 204, 196);
-    padding:20px
+    padding:10px
 }
 p{
-    font-style:sans-serif;
+    font-style:Sans-Serif;
+}
+h2{
+    color:rgb(218, 18, 51)
+}
+body{
+    background-color: beige;
+}
+h3{
+    color:red;
+    font-size: 22px;
 }
