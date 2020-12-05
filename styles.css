@@ -15,13 +15,13 @@ h2{
     color:rgb(218, 18, 51)
 }
 body{
-    background-color: beige;
+    background-color: gainsboro;
 }
 h3{
     color:red;
     font-size: 22px;
 }
-.languages{
+.languages {
     color: blue;
 }
 .hobbies{
