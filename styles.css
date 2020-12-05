@@ -1,10 +1,12 @@
+
 h1{
     color:green;
-    text-align: left;
+    text-align: center;
+    font-size: 40px;
 }
-.Heading{
-    background-color: rgb(199, 204, 196);
-    padding:10px
+img{
+    float: right;
+    border:3px dotted
 }
 p{
     font-style:Sans-Serif;
@@ -18,4 +20,7 @@ body{
 h3{
     color:red;
     font-size: 22px;
+}
+.languages{
+    color: blue;
 }
