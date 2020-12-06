@@ -22,9 +22,12 @@ h3{
     font-size: 22px;
 }
 .languages {
-    color: blue;
+    color: rgb(158, 9, 151);
 }
 .hobbies{
     color:rgb(79, 148, 119);
     font-size: 18px;
+}
+.link{
+    color:rgb(212, 20, 94)
 }
